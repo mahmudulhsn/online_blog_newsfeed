@@ -1,0 +1,49 @@
+/*.logo_area .logo a{
+	width: 80%;
+	height: 90px;
+	margin: auto;
+	display: block;
+	padding: 2px;
+}*/
+.logo_area .logo img{
+	width: 95%;
+	height: 90px;
+	margin: auto;
+	display: block;
+}
+.developer{
+	color: #AAAAAA;
+}
+.developer a{
+	color: orange;
+}
+.is-invalid{
+    border-color: red;
+}
+.comments{
+	overflow: hidden;
+	display: inline;
+    float: left;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    width: 100%;
+}
+.all-comments{
+	overflow: hidden;
+	display: inline;
+    float: left;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    width: 100%;
+}
+.all-comments ul{
+	list-style: none;
+}
+.all-comments ul li span{
+	float: right;
+	font-weight: bold;
+	font-style: italic;
+}
+.category_post .single_post a img{
+	width: 100%;
+}
